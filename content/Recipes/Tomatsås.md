@@ -24,7 +24,7 @@ Passar bra med Bönor och ris
 
 ### Ingredients
 #ingredients 
-- [x] 1 [[Röd lök]]
+- [x] 1 [[Rödlök]]
 - [x] 800 g [[Passerade Tomater]]
 - [x] 3 dl [[Vitt Vin]]
 - [x] 2 tärningar [[Grönsaksbuljong]] 

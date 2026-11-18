@@ -7,8 +7,8 @@ tags:
   - Asian
   - beef
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://www.youtube.com/watch?v=wJ_vNUSQMZg
 

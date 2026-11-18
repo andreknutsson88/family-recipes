@@ -6,8 +6,8 @@ tags:
   - recipe
   - bread
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://sallysbakingaddiction.com/ciabatta-bread-recipe/?utm_source=chatgpt.com#tasty-recipes-141909
 

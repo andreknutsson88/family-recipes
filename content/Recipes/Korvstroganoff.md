@@ -8,8 +8,8 @@ tags:
   - recipe
   - pork
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://mjolkfri.com/korv-stroganoff/
 

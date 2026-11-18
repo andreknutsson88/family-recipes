@@ -8,8 +8,8 @@ tags:
   - recipe
   - kyckling
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://www.instagram.com/reel/C95Yi1vI4NB/?igsh=Y2pnNnp5YXptN3U0
 

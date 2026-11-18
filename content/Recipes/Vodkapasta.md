@@ -6,7 +6,7 @@ tags:
   - recipe
   - pasta
 ---
-[[Home]]
+[[00 Home 🌎]]
 [Cook Book]]
 
 Link : https://www.ica.se/recept/vodkapasta-729011/?fbclid=IwAR1FVhK3dFoSU0zWUU6M_KcEPR4yDKhsQ_ne1VIPqtfhibs-gQFNQt6rK1E

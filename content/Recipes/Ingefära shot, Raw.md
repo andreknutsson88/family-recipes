@@ -9,8 +9,8 @@ tags:
   - recipe
   - beverage
 ---
-[[Home]]  
-[[Cook Book]]
+[[00 Home 🌎]]  
+[[Cook Book 🥩]]
 
 Link: https://www.svenskhalsokost.se/raw-ingefarsshot
 

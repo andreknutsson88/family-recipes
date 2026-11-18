@@ -13,8 +13,8 @@ tags:
 
 ---
 
-[[Home]]  
-[[Cook Book]]
+[[00 Home 🌎]]  
+[[Cook Book 🥩]]
 
 Link: [https://www.youtube.com/shorts/OzsXypS3lxM](https://www.youtube.com/shorts/OzsXypS3lxM)
 

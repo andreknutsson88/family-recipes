@@ -7,8 +7,8 @@ tags:
   - recipe
   - vegan
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 ---
 ### Intro:

@@ -7,8 +7,8 @@ tags:
   - recipe
   - vegetarian
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : 
 

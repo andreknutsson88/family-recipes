@@ -6,8 +6,8 @@ tags:
   - recipe
   - beef
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://www.arla.se/recept/pannbiff/?fbclid=IwY2xjawJDz4pleHRuA2FlbQIxMAABHa3vzBs-VzmKnJiYgLZgKumrZg-CPEP0yY1k-FC4_yHQ33n8cCGnMkf3lw_aem_KoP20WTSNxRUnkteXhaJhw
 

@@ -9,8 +9,8 @@ tags:
   - recipe
   - drink
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://drinkoteket.se/recept/frenchy/
 

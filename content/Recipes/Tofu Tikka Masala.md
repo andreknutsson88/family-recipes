@@ -8,8 +8,8 @@ tags:
 Rating_André: "10"
 Rating_Meici: "10"
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link: https://rainbowplantlife.com/tofu-tikka-masala/#wprm-recipe-container-16250
 Link: https://www.youtube.com/watch?v=u-KO1LIdKdE&t=452s

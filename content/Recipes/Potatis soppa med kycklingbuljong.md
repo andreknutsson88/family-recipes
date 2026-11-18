@@ -8,8 +8,8 @@ tags:
   - recipe
   - pork
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link :[The Ultimate Creamy Potato Soup - Sugar Spun Run](https://sugarspunrun.com/creamy-potato-soup-recipe/#recipe)
 Youtube: https://www.youtube.com/watch?v=jHq0RXIjAfk&embeds_referring_euri=https%3A%2F%2Fsugarspunrun.com%2F

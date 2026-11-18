@@ -8,8 +8,8 @@ tags:
   - recipe
   - bread
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://www.ica.se/recept/sirapslimpa-727012/
 

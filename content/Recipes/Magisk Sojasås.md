@@ -8,8 +8,8 @@ Rating_Julian:
 tags:
   - recipe
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : 
 

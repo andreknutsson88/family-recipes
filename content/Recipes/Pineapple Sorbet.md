@@ -6,8 +6,8 @@ Related_MOC: Cook Book
 tags:
   - recipe
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://youtube.com/shorts/MLsd4y5TSjk?si=NipwXk4zcspZf8S8
 

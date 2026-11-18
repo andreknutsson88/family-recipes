@@ -7,8 +7,8 @@ tags:
   - recipe
   - fika
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 
 

@@ -8,8 +8,8 @@ tags:
   - recipe
   - pork
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://www.niiinis.se/2022/05/06/helstekt-flaskytterfile-i-magisk-sas/?fbclid=IwAR0W14tINukrCeGuMtrwX4tU3rLBHD30n-VlqFIK-ew5-6vWmy_rlMmlmCg
 

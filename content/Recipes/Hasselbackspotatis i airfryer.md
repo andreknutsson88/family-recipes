@@ -5,8 +5,8 @@ Related_MOC: Cook Book
 tags:
   - recipe
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://airfryer-receptbok.se/hasselbackspotatis-i-airfryer/
 

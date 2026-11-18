@@ -9,8 +9,8 @@ tags:
   - recipe
   - sauce
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : 
 

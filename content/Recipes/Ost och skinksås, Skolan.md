@@ -10,8 +10,8 @@ tags:
   - pork
 ---
 
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 Link : https://www.godare.se/recept/a/73pb9B/skolans-ost-och-skinksas
 
 ---

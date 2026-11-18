@@ -8,8 +8,8 @@ tags:
   - recipe
   - beef
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://www.joshuaweissman.com/post/short-rib-ragu-pasta-at-home-recipe
 

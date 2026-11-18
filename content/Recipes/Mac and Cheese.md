@@ -7,8 +7,8 @@ tags:
   - recipe
   - pasta
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://www.instagram.com/p/DCmx0GIO7T1/
 

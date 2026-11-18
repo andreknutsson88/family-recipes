@@ -6,8 +6,8 @@ tags:
   - recipe
   - bread
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://www.youtube.com/watch?v=RBGgYu2pR38
 

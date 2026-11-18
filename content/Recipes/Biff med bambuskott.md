@@ -6,8 +6,8 @@ tags:
   - recipe
   - beef
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://zeinaskitchen.se/biff-med-bambuskott/
 

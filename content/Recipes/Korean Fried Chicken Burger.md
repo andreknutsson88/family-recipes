@@ -9,8 +9,8 @@ tags:
   - recipe
   - kyckling
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://youtube.com/shorts/e4bgEzE7LjI?si=rQYFp3egPH6wnjOc
 

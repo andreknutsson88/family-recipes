@@ -9,8 +9,8 @@ tags:
 Rating_André: "8"
 Rating_Meici: "9.5"
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://www.youtube.com/watch?v=yKXk7L2RzLI
 

@@ -8,8 +8,8 @@ tags:
   - recipe
   - kyckling
 ---
-[[Home]]
-[[Cook Book]]
+[[00 Home 🌎]]
+[[Cook Book 🥩]]
 
 Link : https://christieathome.com/wprm_print/12351#
 
